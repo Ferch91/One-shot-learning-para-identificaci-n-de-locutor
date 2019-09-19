@@ -1,4 +1,4 @@
-# One-shot-learning-para-identificaci-n-de-locutor
+# One-shot-learning-para-la-identificacion-del-locutor
 Implementacion realizada para el Trabajo de fin de Master en Inteligencia Artificial para la Universidad Internacional de la Rioja (UNIR).  Realizado por: Fernando Chica Ortiz
 
 En este proyecto se encuentra el codigo implementado para realizar el trabajo de fin de master intitulado
